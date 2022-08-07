@@ -1,5 +1,6 @@
 # include<iostream> 
 using namespace std;
+/* I pledge that I, Ibrahim Aziz did the assignment myself */
 void AvgOfPrimeNum(){
 	int number;    int sum;   float count;   float avgnum;
 	sum = 0;      count = 0;
